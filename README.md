@@ -103,6 +103,17 @@
 
 ###
 
-<p align="left">i make things work</p>
+<p align="left">i make things work and  I’m currently working on
+git11 — an AI workspace for GitHub engineering teams, and MetricsPulse, an AI revenue intelligence SaaS
+👥 I’m looking to collaborate on
+AI-powered dev tools, SaaS products built on Lovable + Supabase, and open source productivity tooling for engineering teams
+🤝 I’m looking for help with
+Distribution, early user feedback, and growth for developer-focused SaaS products
+🌱 I’m currently learning
+Supabase at scale, production prompt engineering, and full-stack AI product architecture
+💬 Ask me about
+Building lean AI SaaS as a solo founder, vibe-coding with Lovable, or shipping fast with the Claude API
+⚡ Fun fact
+I build entire SaaS products solo using AI-first tools — and I’m still in school</p>
 
 ###
